@@ -1,0 +1,8 @@
+# ARGUS-EYE CORE FRAMEWORK DEPENDENCIES
+scapy==2.5.0
+opencv-python==4.7.0.72
+aiohttp==3.8.4
+numpy==1.24.3
+
+# EXTERNAL SYSTEM TOOLS REQUIREMENTS
+# Ensure hostapd, dnsmasq, and aircrack-ng are pre-configured in Kali environment
